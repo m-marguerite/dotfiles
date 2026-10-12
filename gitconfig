@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mikel.marguerite974@gmail.com
+	name = Mickael Marguerite
